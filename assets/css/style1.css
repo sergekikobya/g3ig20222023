@@ -1,0 +1,20 @@
+
+*{
+    font-family: Arial;
+}
+
+body{
+    background-color: gold;
+}
+h1{
+    color:red;
+    font-style: underline;
+}
+span{
+    color: red;
+}
+.G3ig{
+    color:yellow;
+    background-color:blue;
+    border:1px;
+}
